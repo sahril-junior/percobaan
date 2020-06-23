@@ -46,7 +46,7 @@ a{
   background:#1B2030 url(https://images6.alphacoders.com/671/671427.jpg) 50% 0 no-repeat;
   background-size:100%;
   background-attachment:fixed;
-  animation: grow 360s  linear 10ms infinite;
+  animation: grow 150s  linear 10ms infinite;
   transition:all 0.4s ease-in-out;
   z-index:-2
 }
