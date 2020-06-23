@@ -354,3 +354,31 @@ footer {
 	width: 100%;
   animation: slidein 20s infinite;
 }
+ 
+/*tablet*/
+@media all and (max-width: 1000px) {
+  .info h1 {
+    font-size: 32px;
+  }
+}
+
+/*smartphone*/
+@media all and (max-width: 670px) {
+  
+  .info h1 {
+    font-size: 24px;
+    line-height: 36px;
+    text-align: left;
+  }
+ 
+.info h2 {
+    font-size: 18px;
+    line-height: 30px;
+    text-align: left;
+  }
+ 
+  .info h5 {
+    font-size: 11px;
+    line-height: 20px;
+    text-align: left;
+  }
